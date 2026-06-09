@@ -1,6 +1,6 @@
 # Emparelhamento Máximo Estável (SPA) - Variação Gale-Shapley
 
-[Abra no Colab](https://colab.research.google.com/drive/1t95LBFxhEvArgUP8yt1S9J5C_-TBdESi?usp=sharing)
+[Abra no Colab](#)
 
 **Disciplina:** Teoria e Aplicação de Grafos (TAG)  
 **Turma:** A - 2026/1  
